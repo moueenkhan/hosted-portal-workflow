@@ -2857,7 +2857,7 @@
                     "application/x-www-form-urlencoded",
                     "application/json"
                 ],
-                "description": "Approve an app for installation on a workspace.",
+                "description": "Approve an app just for installation on a workspace.",
                 "externalDocs": {
                     "description": "API method documentation",
                     "url": "https://api.slack.com/methods/admin.apps.approve"
