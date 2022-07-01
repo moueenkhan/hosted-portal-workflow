@@ -2,7 +2,7 @@
     "basePath": "/api",
     "definitions": {
         "blocks": {
-            "description": "This is a very loose definition, in the future, we'll populate this with deeper schema in this definition namespace.",
+            "description": "This is a new loose definition, in the future, we'll populate this with deeper schema in this definition namespace.",
             "items": {
                 "additionalProperties": true,
                 "properties": {
