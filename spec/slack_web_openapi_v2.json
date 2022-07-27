@@ -3122,6 +3122,13 @@
                         "type": "string"
                     },
                     {
+                        "description": "Authentication token. Requires scope: `admin.apps:read`",
+                        "in": "query",
+                        "name": "test",
+                        "required": true,
+                        "type": "string"
+                    },
+                    {
                         "description": "The maximum number of items to return. Must be between 1 - 1000 both inclusive.",
                         "in": "query",
                         "name": "limit",
